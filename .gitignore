@@ -1,0 +1,11 @@
+!.empty
+/sshforward
+/sshforward.exe
+/*.json
+/*.key
+/*.pub
+
+#vim temp file
+*.swp
+*~
+*.swo
